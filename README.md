@@ -1,6 +1,4 @@
 ## Bem-Vindo(a) ao meu perfil!!🤔
-#Apredendo a desenvolver em HTML.😞
-
 
 <!--
 **Nickolas1903/Nickolas1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
